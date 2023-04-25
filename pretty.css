@@ -1,0 +1,28 @@
+.inlineblock {display: inline-block; text-align: left;}
+
+.inlineblock2 {display: inline-flex; text-align: right;}
+
+
+.logo { width: 15%; padding: 1%; text-align:start;}
+
+nav { width: 100%; padding: .5%; background-color: #EF4E34; }
+
+ul { width: 50%; margin-left: auto;}
+
+.heroImg { width: 100%; padding: .5%; background-color: #EF4E34;}
+
+#content { width: 500px; margin: 0 auto; }
+
+
+footer { background-color: #EF4E34; display: block; text-align: end;  }
+
+.ul { display: inline-block; vertical-align: top; padding: center;}
+
+h1 {
+    font-size: 100px;
+    margin: 0px 0px;
+    color: whitesmoke;
+  }
+  
+
+  .skills { background-color: black; }
